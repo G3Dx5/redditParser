@@ -2,6 +2,7 @@
 Short python script to return reddit posts with title, URL, date and author
 
 Example usage: $: ./redditParseFunc.py cars
+(cars being the search term)
 
 Returns: 
 
